@@ -7,3 +7,6 @@ BSCS 2-A
 LAB ACTIVITY 1
 
 My first GitHub commit!
+
+
+Edited for other branch
